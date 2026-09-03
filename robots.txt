@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lacatlantico.com/sitemap.xml
+Sitemap: https://www.lacatlantico.com/sitemap.xml
