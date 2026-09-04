@@ -366,7 +366,7 @@
   footer{background:var(--ink); color:#D6C4C3; padding:40px 0;}
   .footer-inner{display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:20px;}
   .footer-brand{display:flex; align-items:center; gap:12px;}
-  .footer-brand img{height:34px; filter:grayscale(1) brightness(2.6);}
+  .footer-brand img{height:34px;}
   .footer-brand span{font-family:'Fraunces', serif; font-size:0.95rem; color:white;}
   .footer-contact{display:flex; gap:26px; flex-wrap:wrap;}
   .footer-contact a{
